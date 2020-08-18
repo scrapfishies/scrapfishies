@@ -1,4 +1,4 @@
-### Hi there, I'm Chris 👋
+### Hi there, I'm Chris :fish:
 
 I live in Oakland, California and I'm currently learning about data science
 
