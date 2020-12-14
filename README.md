@@ -1,4 +1,4 @@
-### Hi there, I'm Chris :fish:
+### Hi there, I'm Kris :fish:
 
 <!--
 - 🔭 I’m currently a student at Metis studying Data Science
